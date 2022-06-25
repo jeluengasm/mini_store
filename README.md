@@ -25,9 +25,9 @@
 |                                        |                                                           |                    |                   |
 
 
-<h3 id="#Create-project-and-app">Create project and app</h3>
-<h3 id="#Debug-tools-in-smartphone">Debug tools in smartphone</h3>
-<h3 id="#Mini-store-development">Mini-store development</h3>
-<h3 id="#Purchase-with-the-TP-wallet">Purchase with the TP wallet</h3>
-<h3 id="#List-of-movements-and-transactions">List of movements and transactions</h3>
-<h3 id="#Deployment">Deployment</h3>
+<h2 id="#Create-project-and-app">Create project and app</h2>
+<h2 id="#Debug-tools-in-smartphone">Debug tools in smartphone</h2>
+<h2 id="#Mini-store-development">Mini-store development</h2>
+<h2 id="#Purchase-with-the-TP-wallet">Purchase with the TP wallet</h2>
+<h2 id="#List-of-movements-and-transactions">List of movements and transactions</h2>
+<h2 id="#Deployment">Deployment</h2>
